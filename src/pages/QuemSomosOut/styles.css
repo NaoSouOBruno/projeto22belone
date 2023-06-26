@@ -1,0 +1,40 @@
+.conteudo {
+    padding-top: 80px;
+    justify-content: space-around;
+}
+
+.d1 {
+    background-color: rgba(34,168,120,1);
+    width: 1000px;
+    height: 600px;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.d2 {
+    background-color: rgba(148,193,107,1);
+    width: 700px;
+    height: 600px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+}
+
+.titulo {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.texto {
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 80px;
+    text-align: justify;
+    font-size: 22px;
+}
+
+.imgEquipe {
+    padding-top: 25px;
+    width: 500px;
+}

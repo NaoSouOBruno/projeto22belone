@@ -1,0 +1,15 @@
+.main {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.loginBox {
+    display: flex;
+    justify-content: center;
+    padding-top: 250px;
+}
+
+.registrese {
+    color: white;
+}
